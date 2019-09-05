@@ -1,0 +1,19 @@
+{
+    "name": "zaigo/contact",
+    "description": "This is contact us form using laravel package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Periyar Panneerselvam",
+            "email": "periyar@zaigoinfotech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Zaigo\\Contact\\": "src/"
+        }
+    }
+}
